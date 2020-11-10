@@ -42,3 +42,7 @@ calender.events.insert({ calendarId: "primary", resource: event }, (err) => {
     console.log("Calender Event Created");
   }
 });
+
+
+// https://developers.google.com/oauthplayground
+// https://www.youtube.com/watch?v=zrLf4KMs71E&t=561s
